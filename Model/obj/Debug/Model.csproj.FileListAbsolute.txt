@@ -1,0 +1,10 @@
+C:\Users\ST PETER CLAVER\Desktop\accountgo-master\src\Model\bin\Debug\Model.dll
+C:\Users\ST PETER CLAVER\Desktop\accountgo-master\src\Model\bin\Debug\Model.pdb
+C:\Users\ST PETER CLAVER\Desktop\accountgo-master\src\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ST PETER CLAVER\Desktop\accountgo-master\src\Model\obj\Debug\Model.dll
+C:\Users\ST PETER CLAVER\Desktop\accountgo-master\src\Model\obj\Debug\Model.pdb
+C:\Users\ST PETER CLAVER\Desktop\Personals\CubebarnERP\src\Model\bin\Debug\Model.dll
+C:\Users\ST PETER CLAVER\Desktop\Personals\CubebarnERP\src\Model\bin\Debug\Model.pdb
+C:\Users\ST PETER CLAVER\Desktop\Personals\CubebarnERP\src\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ST PETER CLAVER\Desktop\Personals\CubebarnERP\src\Model\obj\Debug\Model.dll
+C:\Users\ST PETER CLAVER\Desktop\Personals\CubebarnERP\src\Model\obj\Debug\Model.pdb
